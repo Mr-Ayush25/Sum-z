@@ -10,7 +10,7 @@ Sum-z is a React-based web application that lets you generate summaries for any 
 
 ## Demo
 
-[View Demo](https://your-sumz-app-demo-link.com)
+[View Demo](https://sum-z-mr-ayush25.vercel.app/)
 
 ## Getting Started
 
